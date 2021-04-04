@@ -1,3 +1,7 @@
+# Project using publicly available voter registration data from NC State Board of Elections (file too large for git)
+# NC voter registration data is updated weekly on Saturdays and is available for each county here:
+# https://www.ncsbe.gov/results-data/voter-registration-data#current-data
+
 library(tidyverse)
 
 #Wake County, NC voter data, source NC State Board of Elections 
