@@ -1,3 +1,7 @@
+# Drawing in ggplot2 with mathematics, using the Golden Angle.
+
+# No external dataset needed! Change size, shape, number of points, colors, or the math functions.
+
 library(ggplot2)
 options(repr.plot.width = 4, repr.plot.height = 4)
 
