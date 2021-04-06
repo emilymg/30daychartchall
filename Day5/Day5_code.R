@@ -1,6 +1,7 @@
 install.packages("moderndive")
 library(moderndive)
 
+# Find the correlation between life expectancy and GDP per capita
 gapminder %>% 
 summarize(N = n(), r = cor(lifeExp, gdpPercap, use = "pairwise.complete.obs"))
 
