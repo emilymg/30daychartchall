@@ -1,4 +1,5 @@
-install.packages("moderndive")
+install.packages(c("moderndive", "gapminder"))
+library(gapminder)
 library(moderndive)
 
 # Find the correlation between life expectancy and GDP per capita
