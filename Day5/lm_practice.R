@@ -42,4 +42,3 @@ tidy_model1 <- tidy(model1)
 tidy_model2 <- tidy(model2)
 
 tidy_combined <- bind_rows(tidy_model1, tidy_model2)
-
