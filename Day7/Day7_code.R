@@ -33,7 +33,7 @@ p_brazil +
                    panel.grid = element_blank(),
                    legend.title = element_blank()) +
   labs(title = "Causes of Deforestation in Brazil, 2001-2013",
-       caption = "Data Source: #tidytuesday 2021 week 15, Our World in Data, https://ourworldindata.org/palm-oil",
+       caption = "Data Source: TidyTuesday 2021 week 15, Our World in Data, https://ourworldindata.org/palm-oil",
        x = NULL,
        y = "Proportion of total forest loss")
 
